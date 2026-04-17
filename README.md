@@ -2,7 +2,7 @@
 
 I built this project because I wanted to go beyond just training a model in a notebook and closing the tab. I wanted to build something complete — something a real person could actually open and use.
 
----
+
 ## What This Project Does
 
 It predicts whether a loan application is likely to get approved or rejected. You enter your income, loan amount, credit history, and a few personal details — and the model gives you an instant decision with a confidence score.
