@@ -65,6 +65,6 @@ I am a beginner in data science who believes that finishing and deploying a proj
 
 ## Contact
 
-- GitHub: [your-username]([https://github.com/your-username](https://github.com/sourabh9098))
+- GitHub: [your-username](https://github.com/sourabh9098))
 - LinkedIn: [your-linkedin](www.linkedin.com/in/sourabh9098)
 - Email: www.sourabh555@gmail.com
